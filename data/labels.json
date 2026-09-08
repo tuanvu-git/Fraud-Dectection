@@ -1,0 +1,10402 @@
+[
+  {
+    "claim_id": "CLM-00001",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00002",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00003",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00004",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00005",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00006",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00007",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00008",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00009",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00010",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00011",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00012",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00013",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00014",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00015",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00016",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00017",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00018",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00019",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00020",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00021",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00022",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00023",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00024",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00025",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00026",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00027",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00028",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00029",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00030",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00031",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00032",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00033",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00034",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00035",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00036",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00037",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00038",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00039",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00040",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00041",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00042",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00043",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00044",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00045",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00046",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00047",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00048",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00049",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00050",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00051",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00052",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00053",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00054",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00055",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00056",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00057",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00058",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00059",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00060",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00061",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00062",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00063",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00064",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00065",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00066",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00067",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00068",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00069",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00070",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00071",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00072",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00073",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00074",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00075",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00076",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00077",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00078",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00079",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00080",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00081",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00082",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00083",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00084",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00085",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00086",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00087",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00088",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-00089",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00090",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00091",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00092",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00093",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00094",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00095",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00096",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00097",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00098",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00099",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00100",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00101",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00102",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00103",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00104",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00105",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00106",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00107",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00108",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00109",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00110",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00111",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00112",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00113",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00114",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00115",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00116",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00117",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00118",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00119",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00120",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00121",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00122",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00123",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00124",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00125",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00126",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00127",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00128",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00129",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00130",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00131",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00132",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00133",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00134",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00135",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00136",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00137",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00138",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00139",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00140",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00141",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00142",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00143",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00144",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00145",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00146",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00147",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00148",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00149",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00150",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00151",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00152",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00153",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00154",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00155",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00156",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00157",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00158",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00159",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00160",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00161",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00162",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00163",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00164",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00165",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00166",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00167",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00168",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00169",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00170",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00171",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00172",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00173",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00174",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00175",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00176",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00177",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00178",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00179",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00180",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00181",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00182",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00183",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00184",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00185",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00186",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00187",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00188",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00189",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00190",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00191",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00192",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00193",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00194",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00195",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00196",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00197",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00198",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00199",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00200",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00201",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00202",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00203",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00204",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00205",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00206",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00207",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00208",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00209",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00210",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00211",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00212",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00213",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00214",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00215",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00216",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00217",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00218",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00219",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00220",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00221",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00222",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00223",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00224",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00225",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00226",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00227",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00228",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00229",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00230",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00231",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00232",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00233",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00234",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00235",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00236",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00237",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00238",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00239",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00240",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00241",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00242",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00243",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00244",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00245",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00246",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00247",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00248",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00249",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00250",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00251",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00252",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00253",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00254",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00255",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00256",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00257",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00258",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00259",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00260",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00261",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00262",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00263",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00264",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00265",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00266",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00267",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00268",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00269",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00270",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00271",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00272",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00273",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00274",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00275",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00276",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00277",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00278",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00279",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00280",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00281",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00282",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00283",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00284",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00285",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00286",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00287",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00288",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00289",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00290",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00291",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00292",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-00293",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-00294",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00295",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00296",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00297",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00298",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00299",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00300",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00301",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00302",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00303",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00304",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00305",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00306",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00307",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00308",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-00309",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00310",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00311",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-00312",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00313",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00314",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00315",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00316",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00317",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00318",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00319",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00320",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00321",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00322",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00323",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00324",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00325",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00326",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00327",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00328",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00329",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00330",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00331",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00332",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00333",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00334",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00335",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00336",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00337",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00338",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00339",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00340",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00341",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00342",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00343",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00344",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00345",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00346",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00347",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00348",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00349",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00350",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00351",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00352",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00353",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00354",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00355",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00356",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00357",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00358",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00359",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00360",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00361",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00362",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00363",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00364",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00365",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00366",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00367",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00368",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00369",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00370",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00371",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00372",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00373",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00374",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00375",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00376",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00377",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00378",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00379",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00380",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00381",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00382",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00383",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00384",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00385",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00386",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00387",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00388",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00389",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00390",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00391",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00392",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00393",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00394",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00395",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00396",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00397",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00398",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00399",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00400",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00401",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00402",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00403",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00404",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00405",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00406",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00407",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00408",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00409",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00410",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00411",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00412",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00413",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00414",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00415",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00416",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00417",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00418",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00419",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00420",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00421",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00422",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00423",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00424",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00425",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00426",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00427",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00428",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00429",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00430",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00431",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00432",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00433",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00434",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00435",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00436",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00437",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00438",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00439",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00440",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00441",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00442",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00443",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00444",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00445",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00446",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00447",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00448",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00449",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00450",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00451",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00452",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00453",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00454",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00455",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00456",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00457",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00458",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-00459",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00460",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00461",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00462",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00463",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00464",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00465",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00466",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00467",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00468",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00469",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00470",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00471",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00472",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00473",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00474",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00475",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00476",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00477",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00478",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00479",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00480",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00481",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00482",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00483",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00484",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00485",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00486",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00487",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00488",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00489",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00490",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00491",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00492",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00493",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00494",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00495",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00496",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00497",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00498",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00499",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00500",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00501",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00502",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00503",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00504",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00505",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00506",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00507",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00508",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00509",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00510",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00511",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00512",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00513",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00514",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00515",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00516",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00517",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00518",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00519",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00520",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00521",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00522",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00523",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00524",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00525",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00526",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00527",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00528",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00529",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00530",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00531",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00532",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00533",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00534",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00535",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00536",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00537",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00538",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00539",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00540",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00541",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00542",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00543",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00544",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00545",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00546",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00547",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00548",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00549",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00550",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00551",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00552",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00553",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00554",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00555",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00556",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00557",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00558",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00559",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00560",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00561",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00562",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00563",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00564",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00565",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00566",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00567",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00568",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00569",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00570",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00571",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00572",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00573",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00574",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00575",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00576",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00577",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00578",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00579",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00580",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00581",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00582",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00583",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00584",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00585",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00586",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00587",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00588",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00589",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00590",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00591",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00592",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00593",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00594",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00595",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00596",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00597",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00598",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00599",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00600",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00601",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00602",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00603",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00604",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00605",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00606",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00607",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00608",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00609",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00610",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00611",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00612",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00613",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00614",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00615",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00616",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00617",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00618",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00619",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00620",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00621",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00622",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00623",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00624",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00625",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00626",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00627",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00628",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00629",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00630",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00631",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00632",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00633",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00634",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00635",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00636",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00637",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00638",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00639",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00640",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00641",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00642",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00643",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00644",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00645",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00646",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00647",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00648",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00649",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00650",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00651",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00652",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00653",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00654",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00655",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00656",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00657",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00658",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00659",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00660",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00661",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00662",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00663",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00664",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00665",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00666",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00667",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00668",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00669",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00670",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00671",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00672",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00673",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00674",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00675",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00676",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00677",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00678",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00679",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00680",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00681",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00682",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00683",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00684",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00685",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00686",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00687",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00688",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00689",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00690",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00691",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00692",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00693",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00694",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00695",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00696",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00697",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00698",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00699",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00700",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00701",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00702",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00703",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00704",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00705",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00706",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00707",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00708",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00709",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00710",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00711",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00712",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00713",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00714",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00715",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00716",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00717",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00718",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00719",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00720",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00721",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00722",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00723",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00724",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00725",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00726",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00727",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00728",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00729",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00730",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00731",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00732",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00733",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00734",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00735",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00736",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00737",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00738",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00739",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00740",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00741",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00742",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00743",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00744",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00745",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00746",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00747",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00748",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00749",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00750",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00751",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00752",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00753",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00754",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00755",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00756",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00757",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00758",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00759",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00760",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00761",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00762",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00763",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00764",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00765",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00766",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00767",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00768",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00769",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00770",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00771",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00772",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00773",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00774",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00775",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00776",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00777",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00778",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00779",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00780",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00781",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00782",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00783",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00784",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00785",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00786",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00787",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00788",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00789",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00790",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00791",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00792",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00793",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00794",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00795",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00796",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00797",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00798",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00799",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00800",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00801",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00802",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00803",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00804",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00805",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00806",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00807",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00808",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00809",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00810",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00811",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00812",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00813",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00814",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00815",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00816",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00817",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00818",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-00819",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00820",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00821",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00822",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00823",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00824",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00825",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00826",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00827",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00828",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00829",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00830",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00831",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00832",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00833",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00834",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00835",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00836",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00837",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00838",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00839",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00840",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00841",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00842",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00843",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00844",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00845",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00846",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00847",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00848",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00849",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00850",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00851",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00852",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00853",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00854",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00855",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00856",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00857",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00858",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00859",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00860",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00861",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00862",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00863",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00864",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00865",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00866",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00867",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00868",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00869",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00870",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00871",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00872",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00873",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00874",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00875",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00876",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00877",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00878",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00879",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00880",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00881",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00882",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00883",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00884",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00885",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00886",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00887",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00888",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00889",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00890",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00891",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00892",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00893",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00894",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00895",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00896",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00897",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00898",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00899",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00900",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00901",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00902",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00903",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00904",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00905",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00906",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00907",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00908",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00909",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00910",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00911",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00912",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00913",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00914",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00915",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00916",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00917",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00918",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00919",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00920",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00921",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00922",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00923",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00924",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00925",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00926",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00927",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00928",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00929",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00930",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00931",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00932",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00933",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00934",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00935",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00936",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00937",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00938",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00939",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00940",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00941",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00942",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00943",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00944",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00945",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00946",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00947",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00948",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00949",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00950",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00951",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00952",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00953",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00954",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00955",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00956",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00957",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00958",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00959",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00960",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00961",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00962",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00963",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00964",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-00965",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-00966",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00967",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-00968",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00969",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-00970",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00971",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-00972",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00973",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00974",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00975",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00976",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00977",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00978",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00979",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00980",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00981",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00982",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00983",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00984",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-00985",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00986",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00987",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00988",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00989",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00990",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00991",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00992",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00993",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-00994",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00995",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00996",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00997",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00998",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-00999",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01000",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01001",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01002",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01003",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01004",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01005",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01006",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01007",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01008",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01009",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01010",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01011",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01012",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01013",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01014",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01015",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01016",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01017",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01018",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01019",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01020",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01021",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01022",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01023",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01024",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01025",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01026",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01027",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01028",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01029",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01030",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01031",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01032",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01033",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01034",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01035",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01036",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01037",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01038",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01039",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01040",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01041",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01042",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01043",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01044",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01045",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01046",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01047",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01048",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01049",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01050",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01051",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01052",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01053",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01054",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01055",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01056",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01057",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01058",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01059",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01060",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01061",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01062",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01063",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01064",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01065",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01066",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01067",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01068",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01069",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01070",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01071",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01072",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01073",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01074",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01075",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01076",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01077",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01078",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01079",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01080",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01081",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01082",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01083",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01084",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01085",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01086",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01087",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01088",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01089",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01090",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01091",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01092",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01093",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01094",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01095",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01096",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01097",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01098",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01099",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01100",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01101",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01102",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01103",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01104",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01105",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01106",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01107",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01108",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01109",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01110",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01111",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01112",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01113",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01114",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01115",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01116",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01117",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01118",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01119",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01120",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01121",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01122",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01123",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01124",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01125",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01126",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01127",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01128",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01129",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01130",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01131",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01132",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01133",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01134",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01135",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01136",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01137",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01138",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01139",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01140",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01141",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01142",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01143",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01144",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01145",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01146",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01147",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01148",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01149",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01150",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01151",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01152",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01153",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01154",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01155",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01156",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01157",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01158",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01159",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01160",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01161",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01162",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01163",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01164",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01165",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01166",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01167",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01168",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01169",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01170",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01171",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01172",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01173",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01174",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01175",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01176",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01177",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01178",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01179",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01180",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01181",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01182",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01183",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01184",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01185",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01186",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01187",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01188",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01189",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01190",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01191",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01192",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01193",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01194",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01195",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01196",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01197",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01198",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01199",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01200",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01201",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01202",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01203",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01204",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01205",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01206",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01207",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01208",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01209",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01210",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01211",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01212",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01213",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01214",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01215",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01216",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01217",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01218",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01219",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01220",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01221",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01222",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01223",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01224",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01225",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01226",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01227",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01228",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01229",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01230",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01231",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01232",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01233",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01234",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01235",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01236",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01237",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01238",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01239",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01240",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01241",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01242",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01243",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01244",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01245",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01246",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01247",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01248",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01249",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01250",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01251",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01252",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01253",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01254",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01255",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01256",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01257",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01258",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01259",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01260",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01261",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01262",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-01263",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01264",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01265",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01266",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01267",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01268",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01269",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01270",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01271",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01272",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01273",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01274",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01275",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01276",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01277",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01278",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01279",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01280",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01281",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01282",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01283",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01284",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01285",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01286",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01287",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01288",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01289",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01290",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01291",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01292",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01293",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01294",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01295",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01296",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01297",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01298",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01299",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01300",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01301",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01302",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01303",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01304",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01305",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01306",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01307",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01308",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01309",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01310",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01311",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01312",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01313",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01314",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01315",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01316",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01317",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01318",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01319",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01320",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01321",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01322",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01323",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01324",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01325",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01326",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01327",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01328",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01329",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01330",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01331",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01332",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01333",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01334",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01335",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01336",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01337",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01338",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01339",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01340",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01341",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01342",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01343",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01344",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01345",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01346",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01347",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01348",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01349",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01350",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01351",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01352",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01353",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01354",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01355",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01356",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01357",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01358",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01359",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01360",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01361",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01362",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01363",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01364",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01365",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01366",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01367",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01368",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-01369",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01370",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01371",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01372",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01373",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01374",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01375",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01376",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01377",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01378",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01379",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01380",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01381",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01382",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01383",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01384",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01385",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01386",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01387",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01388",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01389",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01390",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01391",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01392",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01393",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01394",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01395",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01396",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01397",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01398",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01399",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01400",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01401",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01402",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01403",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01404",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01405",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01406",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01407",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01408",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01409",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01410",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01411",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01412",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01413",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01414",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01415",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01416",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01417",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01418",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01419",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01420",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01421",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01422",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01423",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01424",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01425",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01426",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01427",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01428",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01429",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01430",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01431",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01432",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01433",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01434",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01435",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01436",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01437",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01438",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01439",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01440",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01441",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01442",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01443",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01444",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01445",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01446",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01447",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01448",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01449",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01450",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01451",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01452",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01453",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01454",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01455",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01456",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01457",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01458",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01459",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01460",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01461",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-01462",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01463",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01464",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01465",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01466",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01467",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01468",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01469",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01470",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01471",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01472",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01473",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01474",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01475",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01476",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01477",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01478",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01479",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01480",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01481",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01482",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01483",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01484",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01485",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01486",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01487",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01488",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01489",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01490",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01491",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01492",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01493",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01494",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01495",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01496",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01497",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01498",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01499",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01500",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01501",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01502",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01503",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01504",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01505",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01506",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01507",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01508",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01509",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01510",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01511",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01512",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01513",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01514",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01515",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01516",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01517",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01518",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01519",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01520",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01521",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01522",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01523",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01524",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01525",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01526",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01527",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01528",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01529",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01530",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01531",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01532",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01533",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01534",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01535",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01536",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01537",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01538",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01539",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01540",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01541",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01542",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01543",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01544",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01545",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01546",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01547",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01548",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01549",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01550",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01551",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01552",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01553",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01554",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01555",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01556",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01557",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01558",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01559",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01560",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01561",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01562",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01563",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01564",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01565",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01566",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01567",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01568",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01569",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01570",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01571",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01572",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01573",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01574",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01575",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01576",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01577",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01578",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01579",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-01580",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01581",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01582",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01583",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01584",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01585",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01586",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01587",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01588",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01589",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01590",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01591",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01592",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01593",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01594",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01595",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01596",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01597",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01598",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01599",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-01600",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01601",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01602",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01603",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01604",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01605",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01606",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01607",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01608",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01609",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01610",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01611",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01612",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01613",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01614",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01615",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01616",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01617",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01618",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01619",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01620",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01621",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01622",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01623",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01624",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01625",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01626",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01627",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01628",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01629",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01630",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01631",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01632",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01633",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01634",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01635",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01636",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01637",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01638",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01639",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01640",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01641",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01642",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01643",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01644",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01645",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01646",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01647",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01648",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01649",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01650",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01651",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01652",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01653",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01654",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01655",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01656",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01657",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01658",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01659",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01660",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01661",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01662",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01663",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01664",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01665",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01666",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01667",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01668",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01669",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01670",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01671",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01672",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01673",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01674",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01675",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01676",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01677",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01678",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01679",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01680",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01681",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01682",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01683",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01684",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01685",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01686",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01687",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01688",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01689",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01690",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01691",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01692",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01693",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01694",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01695",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01696",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01697",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01698",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01699",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01700",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01701",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01702",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01703",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01704",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01705",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01706",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01707",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01708",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01709",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01710",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01711",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01712",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01713",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01714",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01715",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01716",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01717",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01718",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01719",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01720",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01721",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01722",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01723",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01724",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01725",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01726",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01727",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01728",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01729",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01730",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01731",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01732",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01733",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01734",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01735",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01736",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01737",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01738",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01739",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01740",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01741",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01742",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01743",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01744",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01745",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01746",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01747",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01748",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01749",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01750",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01751",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01752",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01753",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01754",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01755",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01756",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01757",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01758",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01759",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01760",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01761",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01762",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01763",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01764",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01765",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01766",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01767",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01768",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01769",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01770",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01771",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01772",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01773",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01774",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01775",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01776",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01777",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01778",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01779",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01780",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01781",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01782",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01783",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01784",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01785",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01786",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01787",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01788",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01789",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01790",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01791",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01792",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01793",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01794",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01795",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01796",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01797",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01798",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01799",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01800",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01801",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01802",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01803",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01804",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01805",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01806",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01807",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01808",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01809",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01810",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01811",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01812",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01813",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01814",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01815",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01816",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01817",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01818",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01819",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01820",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01821",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01822",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01823",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01824",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01825",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01826",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01827",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01828",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01829",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01830",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01831",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01832",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01833",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01834",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01835",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01836",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01837",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01838",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01839",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01840",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01841",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01842",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01843",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01844",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01845",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01846",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01847",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01848",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01849",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01850",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01851",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01852",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01853",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01854",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01855",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01856",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01857",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01858",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01859",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01860",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01861",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01862",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01863",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01864",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01865",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01866",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01867",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01868",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "phantom_billing"
+    ]
+  },
+  {
+    "claim_id": "CLM-01869",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01870",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01871",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01872",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01873",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01874",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01875",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01876",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01877",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01878",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01879",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01880",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01881",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01882",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01883",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01884",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01885",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01886",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01887",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01888",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01889",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01890",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01891",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01892",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "amount_clustering"
+    ]
+  },
+  {
+    "claim_id": "CLM-01893",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01894",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01895",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01896",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01897",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "diagnosis_procedure_mismatch"
+    ]
+  },
+  {
+    "claim_id": "CLM-01898",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01899",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01900",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01901",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01902",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01903",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01904",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01905",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01906",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01907",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01908",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01909",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01910",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01911",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01912",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01913",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01914",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01915",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01916",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01917",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01918",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01919",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01920",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01921",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01922",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01923",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01924",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01925",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01926",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01927",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01928",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01929",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01930",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01931",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01932",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01933",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01934",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01935",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01936",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01937",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01938",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01939",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01940",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01941",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01942",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01943",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01944",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01945",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01946",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01947",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01948",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "duplicate_claim"
+    ]
+  },
+  {
+    "claim_id": "CLM-01949",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01950",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01951",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "weekend_anomaly"
+    ]
+  },
+  {
+    "claim_id": "CLM-01952",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01953",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01954",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01955",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01956",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01957",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01958",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01959",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01960",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01961",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01962",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01963",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01964",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01965",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01966",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01967",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01968",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01969",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01970",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01971",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01972",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01973",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01974",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "upcoding"
+    ]
+  },
+  {
+    "claim_id": "CLM-01975",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01976",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01977",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01978",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01979",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01980",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01981",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01982",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01983",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01984",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01985",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01986",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01987",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01988",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01989",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01990",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01991",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01992",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01993",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "rapid_resubmission"
+    ]
+  },
+  {
+    "claim_id": "CLM-01994",
+    "is_fraud": true,
+    "fraud_patterns": [
+      "unbundling"
+    ]
+  },
+  {
+    "claim_id": "CLM-01995",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01996",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01997",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01998",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-01999",
+    "is_fraud": false,
+    "fraud_patterns": []
+  },
+  {
+    "claim_id": "CLM-02000",
+    "is_fraud": false,
+    "fraud_patterns": []
+  }
+]
