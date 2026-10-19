@@ -1,0 +1,50 @@
+### Q1 — Ký ức đầu tiên của bạn là gì? · `[M]` · **Bắt buộc**
+
+> Ký ức đầu tiên của bạn là gì?
+
+Ký ức đầu tiên mà tôi có thể nhớ là lúc tôi còn nhỏ khoảng 5-6 tuổi. Lúc này tôi được về quê mẹ chơi đó là 1 nơi ở vùng quê Đồng Tháp, so với tôi biết thì quê ngoại điều kiện sống không tốt lắm, tấm bằng nước giếng có cần bơm lên và xung quanh thường trồng nấm rơm có mùi rất đặc trưng và tôi không thích chúng. Khi về quê lúc này anh tôi (hơn tôi 3 tuổi) cũng đi về chung và chúng tôi ở nhà bà ngoại, bà rất lớn tuổi. Trong lúc ở quê thì tôi và anh tôi thường đi chơi với 1 người anh họ là con của bác tôi và thường trốn đi chơi điện tử bằng đĩa khi gia đình đi vắng 
+
+
+### Q3 — Bạn có đặt tên cho đồ vật mình sở hữu không? Liệt kê một số tên. · `[N]`
+
+> Bạn có đặt tên cho đồ vật mà mình sở hữu không? Hãy liệt kê một số tên.
+
+Thông thường tôi không đặt tên cho đồ vật. Tôi chỉ xem đồ vật như công cụ, chúng gắn liền với 1 chức năng nào đó và đã có "tên gọi" chung rồi không cần thiết phải đặt tên riêng làm gì.
+Ngoài ra khi quên tên gọi chung thì một số người thường sẽ gọi chức năng đi kèm của nó ví dụ "muỗng bới cơm" thì tự hiểu sẽ lấy muỗng to bằng nhựa hoặc gỗ thay vì muỗng thông thường. Nên việc gọi tên riêng sẽ làm người khác khó hiểu hơn
+
+### Q5 — Lần cuối bạn bỏ quên một món đồ là khi nào? Đồ gì? · `[M, O]` · **Bắt buộc**
+
+> Lần cuối cùng bạn bỏ quên một món đồ là khi nào và món đồ là gì?
+
+lần cuối tôi để quên đồ là bỏ quên chìa khóa xe ở nhà. Lúc đó khoảng 3 ngày trước (ngày 5/9) tôi định chuẩn bị ra ngoài mua đồ ăn thì đi xuống tới nhà xe định đưa tay lấy khóa xe để cắm vào thì phát hiện ra mình để quên chìa khóa ở trên nhà. Thông thường tôi sẽ để chìa khóa xe cạnh chỗ ví và khi ra ngoài ví và điện thoại là thứ gần như tôi luôn lấy theo vì để 2 bên túi quần nên rất dễ nhận ra là bỏ sót. tuy nhiên lần đó tôi lại bỏ khóa xe ở chỗ khác(vứt gần võng) và tôi phải leo lên nhà(chung cư tầng 3 và không có thang máy) để lấy.
+
+### Q6 — Vị trí nào trong hàng đợi vào rạp chiếu phim là tốt nhất? · `[O]`
+
+> Vị trí nào trên hàng khi đi vào rạp chiếu phim là tốt nhất?
+
+Đa số rạp phim ở Việt Nam hiện nay đều gán sẵn ghế khi mua vé, nên tôi không cần giành vị trí trong hàng để có chỗ ngồi đẹp. 
+Điểm nghẽn thật sự nằm ở cổng soát vé, nơi nhân viên phải kiểm tra tuần tự từng người. 
+Việc này tốn thời gian nhưng không ảnh hưởng đến phim, vì phần quảng cáo và trailer đầu suất chiếu thường kéo dài khá lâu.
+Ngoài ra, tôi thường chọn ghế sát vách trái/phải, nên nếu vào sớm tôi sẽ cản trở người khác đi lại, mà vào sớm cũng chỉ để xem quảng cáo. 
+Vì vậy tôi thường đợi mọi người ổn định chỗ ngồi rồi mới xếp hàng.
+### Q8 — Viết hướng dẫn đổ xăng tại cây xăng nhanh nhất có thể · `[Cr, Q]`
+
+> Bạn hãy viết hướng dẫn (guideline) cho cách đổ xăng ở cây xăng tốn ít thời gian nhất. Tình huống giả lập là xe đang cần thêm xăng. Bạn có thể chọn bất kỳ phương tiện xăng nào mà bạn thích.
+
+Tôi giả định là mình đi xe máy tay ga, trạm có khoảng 3–4 trụ, giờ bình thường và trả được cả tiền mặt lẫn QR. 
+Lúc còn đang chạy vào trạm, tôi chọn một trụ còn trống và ở xa nhất theo chiều đang chạy. 
+Làm vậy thì xe vào sau không đậu chắn đường ra của mình, vì kẹt trong sân trạm hay xảy ra nhất ở chỗ này. 
+Cũng ngay lúc đó tôi rút sẵn tờ tiền cần đổ, hoặc mở sẵn màn hình quét QR, không đợi bơm xong mới làm.
+Vừa dừng xe, tôi yêu cầu nhân viên đổ theo số tiền cụ thể thay vì "đổ đầy", vì nhân viên bấm số rồi bơm thẳng, không phải đứng canh cho tới khi đầy bình. 
+Trong lúc họ bấm số thì tôi mở nắp bình xăng luôn, hai việc làm song song.
+Khi đang bơm, tôi nhìn đồng hồ trụ xem số đã về 0 trước khi bơm chưa và có chạy đúng không.
+
+Bơm xong tôi đóng nắp, hạ yên. Nếu trả tiền mặt thì đưa đúng số nếu có, không đưa tờ lớn để khỏi chờ thối. Nếu trả QR thì quét, đưa màn hình "thành công" cho nhân viên xem rồi đi. 
+Sau đó tôi chạy thẳng ra theo hướng đã tính từ đầu, không quay đầu trong sân trạm để khỏi ảnh hưởng người khác.
+
+Có vài chỗ tôi đánh đổi:
+- Đổ số tiền chẵn (như 50k) thì nhanh hơn đổ đầy, nhưng bù lại phải ghé đổ xăng nhiều lần hơn.
+- Chỉ liếc đồng hồ và chuẩn bị cho việc đổ xăng thì nhanh hơn, nhưng có rủi ro là nhân viên không reset số trên cây xăng.
+- Trả QR nhanh khi hệ thống ngân hàng/ ví điện tử và mạng hoạt động ổn định còn không thì lại phát sinh vấn đề không mong muốn
+
+Còn hai tình huống đặc biệt: khi gần cạn xăng thì tôi vào trạm gần nhất, không kén trụ. Khi giờ cao điểm thì tôi chọn trạm nằm bên phải chiều đường
